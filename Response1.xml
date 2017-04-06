@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Response>
+  <Say voice="alice">Hello! We were alerted that you  have a very important email needs your response. Welcome to the Email Revolution! Proudly powered by the MailMax Team!</Say>
+  <Play>https://demo.twilio.com/docs/classic.mp3</Play>
+</Response>
